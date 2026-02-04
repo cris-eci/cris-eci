@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 I'm **Cristian Santiago Pedraza Rodriguez** 🎓  
-💻 5th semester **Systems Engineering student**  
+💻 8th semester **Systems Engineering student**  
 🚀 Passionate about **software development** and **architecture**  
 💡 Enthusiastic about designing and developing **information systems**  
 🌐 Always eager to learn about **tomorrow's technologies**
